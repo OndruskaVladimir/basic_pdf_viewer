@@ -1,0 +1,26 @@
+{
+  "name": "basic_pdf_viewer",
+  "version": "1.0.0",
+  "description": "Implementation of basic pdf viewer in express.js + EJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OndruskaVladimir/basic_pdf_viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OndruskaVladimir/basic_pdf_viewer/issues"
+  },
+  "homepage": "https://github.com/OndruskaVladimir/basic_pdf_viewer#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
